@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+ margin: 10px 5px !important;
+}
+
+h1 {
+  text-align: center;
+}
+
+li {
+  margin: 5px;
+}
